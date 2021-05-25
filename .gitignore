@@ -1,0 +1,5 @@
+# Ignorar jpg, png y gif
+*.jpg
+*.png
+*.gif
+*.mp4
